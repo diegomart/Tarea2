@@ -1,0 +1,4 @@
+C:\Users\JU\Desktop\programacion\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\JU\Desktop\programacion\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\JU\Desktop\programacion\Tarea2\Tarea2\Tarea2\obj\x86\Debug\Tarea2.exe
+C:\Users\JU\Desktop\programacion\Tarea2\Tarea2\Tarea2\obj\x86\Debug\Tarea2.pdb
